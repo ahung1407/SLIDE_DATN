@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+.venv/
+
+# Microsoft Office temporary lock files
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
+# Old / temporary presentations
+Bao_Cao_LVTN_Giai_Doan_2_CE_BKTPHCM.pptx
+test_*.pptx
+
+# Temporary outputs
+*.tmp
+verify_output.txt
+verify_canva_output.txt
